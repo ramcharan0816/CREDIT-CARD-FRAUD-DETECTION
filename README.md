@@ -4,9 +4,9 @@ Various machine learning models such as Logistic Regression, Random Forest, Isol
 The final results show that ensemble models and anomaly detection-based techniques provide higher reliability in detecting suspicious patterns.
 This project demonstrates how machine learning can support secure financial transactions and can be extended further by deploying it using Flask/Streamlit, integrating explainable AI techniques, and adapting the model for real-time fraud monitoring.
 🛠️ Tech Stack:
-Python
-Scikit-Learn
-Pandas
-NumPy
-Matplotlib / Seaborn
-TensorFlow/Keras 
+Python,
+Scikit-Learn,
+Pandas,
+NumPy,
+Matplotlib / Seaborn,
+TensorFlow/Keras.
